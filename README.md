@@ -3,6 +3,7 @@
 3D遊戲程式設計_Homework_1
 * 遊戲名稱：
 * 網址：https://yenrongchen.github.io/3D-Games_HW1/
+* Unity Play網址：https://play.unity.com/en/games/d6f1ed2a-1bbd-42bb-a4be-a1e3d059b48f/110306018hw1
 * 操作方式：
   * WASD控制士兵移動
   * 空白鍵發射子彈攻擊怪物
